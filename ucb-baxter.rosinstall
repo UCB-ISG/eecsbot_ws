@@ -1,0 +1,28 @@
+- git:
+    local-name: baxter
+    uri: https://github.com/UCB-ISG/baxter.git
+    version: ucb-noetic
+- git:
+    local-name: baxter_common
+    uri: https://github.com/UCB-ISG/baxter_common.git
+    version: ucb-noetic
+- git:
+    local-name: baxter_examples
+    uri: https://github.com/UCB-ISG/baxter_examples.git
+    version: ucb-noetic
+- git:
+    local-name: baxter_interface
+    uri: https://github.com/UCB-ISG/baxter_interface.git
+    version: ucb-noetic
+- git:
+    local-name: baxter_simulator
+    uri: https://github.com/UCB-ISG/baxter_simulator.git
+    version: ucb-noetic
+- git:
+    local-name: baxter_tools
+    uri: https://github.com/UCB-ISG/baxter_tools.git
+    version: ucb-noetic
+- git:
+    local-name: moveit_robots
+    uri: https://github.com/UCB-ISG/moveit_robots.git
+    version: ucb-noetic
