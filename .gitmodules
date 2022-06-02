@@ -1,0 +1,48 @@
+[submodule "baxter"]
+	path = src/baxter
+	url = ../baxter.git
+	branch = .
+[submodule "baxter_common"]
+	path = src/baxter_common
+	url = ../baxter_common.git
+	branch = .
+[submodule "baxter_examples"]
+	path = src/baxter_examples
+	url = ../baxter_examples.git
+	branch = .
+[submodule "baxter_interface"]
+	path = src/baxter_interface
+	url = ../baxter_interface.git
+	branch = .
+[submodule "baxter_simulator"]
+	path = src/baxter_simulator
+	url = ../baxter_simulator.git
+	branch = .
+[submodule "baxter_tools"]
+	path = src/baxter_tools
+	url = ../baxter_tools.git
+	branch = .
+[submodule "moveit_robots"]
+	path = src/moveit_robots
+	url = ../moveit_robots.git
+	branch = .
+[submodule "intera_common"]
+	path = src/intera_common
+	url = ../intera_common.git
+	branch = .
+[submodule "intera_sdk"]
+	path = src/intera_sdk
+	url = ../intera_sdk.git
+	branch = .
+[submodule "sawyer_moveit"]
+	path = src/sawyer_moveit
+	url = ../sawyer_moveit.git
+	branch = .
+[submodule "sawyer_robot"]
+	path = src/sawyer_robot
+	url = ../sawyer_robot.git
+	branch = .
+[submodule "sawyer_simulator"]
+	path = src/sawyer_simulator
+	url = ../sawyer_simulator.git
+	branch = .
