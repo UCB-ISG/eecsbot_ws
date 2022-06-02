@@ -1,0 +1,14 @@
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+
+Package: ros-noetic-ps3joy
+Version: 0.0.1
+Maintainer: INST <INST@ISG>
+Provides: ros-noetic-ps3joy
+#Depends: 
+Architecture: all
+Description: Fake package to satisfy broken dependencies of ros-noetic-joystick-drivers
+ Fake package created by "equivs" to satisfy broken ps3joy on ROS Noetic
+ to satisfy dependencies of ros-noetic-joystick-drivers on ros-noetic-ps3joy.
+
