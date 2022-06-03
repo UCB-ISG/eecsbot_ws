@@ -6,6 +6,10 @@
 	path = src/baxter_common
 	url = ../baxter_common.git
 	branch = .
+[submodule "baxter_demo_ui"]
+	path = src/baxter_demo_ui
+	url = ../baxter_demo_ui.git
+	branch = .
 [submodule "baxter_examples"]
 	path = src/baxter_examples
 	url = ../baxter_examples.git

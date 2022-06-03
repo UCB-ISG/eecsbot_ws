@@ -7,6 +7,10 @@
     uri: https://github.com/UCB-ISG/baxter_common.git
     version: ucb-noetic
 - git:
+    local-name: baxter_demo_ui
+    uri: https://github.com/UCB-ISG/baxter_demo_ui.git
+    version: ucb-noetic
+- git:
     local-name: baxter_examples
     uri: https://github.com/UCB-ISG/baxter_examples.git
     version: ucb-noetic
