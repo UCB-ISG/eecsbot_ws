@@ -41,7 +41,7 @@
 [submodule "sawyer_moveit"]
 	path = src/sawyer_moveit
 	url = ../sawyer_moveit.git
-	branch = .
+	branch = ucb-noetic-clicksmart
 [submodule "sawyer_robot"]
 	path = src/sawyer_robot
 	url = ../sawyer_robot.git
