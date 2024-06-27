@@ -5,7 +5,7 @@
 - git:
     local-name: intera_sdk
     uri: https://github.com/UCB-ISG/intera_sdk.git
-    version: ucb-noetic
+    version: ucb-noetic-clicksmart
 - git:
     local-name: sawyer_moveit
     uri: https://github.com/UCB-ISG/sawyer_moveit.git

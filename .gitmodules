@@ -37,7 +37,7 @@
 [submodule "intera_sdk"]
 	path = src/intera_sdk
 	url = ../intera_sdk.git
-	branch = .
+	branch = ucb-noetic-clicksmart
 [submodule "sawyer_moveit"]
 	path = src/sawyer_moveit
 	url = ../sawyer_moveit.git
